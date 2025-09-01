@@ -19,6 +19,7 @@ Check out the working demo on Instagram:
 👉 [Watch the Reel](https://www.instagram.com/reel/DNTA2ZmP2zg/?igsh=am1yY2Q5dzM4Zncw)
 
 
-
+## Circuit Diagram
+![Motion doorbell circuit](./motion_doorbell_cicuit_diagram.png)
 
 
